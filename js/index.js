@@ -62,19 +62,19 @@ function renderData(data) {
                 <div class="d-flex py-2 content">
                   <div>
                     <img
-                      src="Images/icon-umberella.png"
+                      src="images/icon-umberella.png"
                       class=""
                       loading="lazy"
                     />
                     <span>20%</span>
                   </div>
                   <div>
-                    <img src="Images/icon-wind.png" class="" loading="lazy" />
+                    <img src="images/icon-wind.png" class="" loading="lazy" />
                     <span>18km/h </span>
                   </div>
                   <div>
                     <img
-                      src="Images/icon-compass.png"
+                      src="images/icon-compass.png"
                       class=""
                       loading="lazy"
                     />
